@@ -16,6 +16,8 @@ Agente: yMarcius Level: Radiante
 
 2.1. **Implementação do projeto em Javascript**
 
+https://github.com/yMarcius/DIOClassificador/blob/a4d2965c36bed1db74ec0a099e2f6080778bac16/Mmr.js#L1-L39
+
 2.2. **console output**
 
 ```
